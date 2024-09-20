@@ -1,0 +1,93 @@
+h1{
+  text-align: center;
+  background-color: aqua;
+  color:brown;
+  border:10px solid brown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 20%;
+}
+.mainHeading{
+  width:450px;
+  height:30px;
+  font-family:cursive;
+  font-size: larger;
+}
+h2{
+  text-align: center;
+  background-color: aqua;
+  color:brown;
+  border:10px solid brown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 20%;
+}
+.imageDiv{
+  width:390px;
+  height: 600px;
+  display:inline-block;
+  margin:10px;
+}
+.imgPic{
+  width:350px;
+  height:300px;
+}
+p{
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.videoDiv{
+  width:400px;
+  height: 300px;
+}
+.mainDiv{
+  width:1300px;
+  height: 630px;
+}
+.audioDiv{
+  width:1400px;
+  height:400px;
+}
+.imgExample{
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+}
+.poster{
+  width: 400px;
+  height: 300px;
+  display:inline-block;
+}
+.audioExample{
+  width:300px;
+  margin:10px;
+  display:inline-block;
+}
+.paraExample{
+  display:inline-block;
+  margin:10px;
+  border:5px gray dashed;
+  width:350px;
+  border-radius: 20%;
+}
+.pExample{
+  text-align: center;
+}
+.videoDiv2{
+  width:500px;
+  margin:10px;
+  border-radius: 5%;
+}
+.mainExampleDiv{
+  width:1300px;
+  border: 10px solid orange;
+  padding:10px;
+  border-radius: 10px;
+  background-color: aqua;
+  margin:10px;
+}
+h3{
+  width:1300px;
+  border-radius: 20%;
+  background-color: black;
+  color: aqua;
+  text-align: center;
+}
